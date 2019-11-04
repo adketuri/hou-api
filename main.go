@@ -17,14 +17,42 @@ type Items struct {
 }
 
 type Item struct {
-	ID			int		`json:"id"`
-	Name		string	`json:"name"`
-	Description	string	`json:"vanillaDescription"`
+	ID					int		`json:"id"`
+	Name				string	`json:"name"`
+	Description			string	`json:"description"`
+	Atk					int		`json:"atk"`
+	matk                int     `json:"matk"`
+	Def                 int     `json:"def"`
+	Mdef                int     `json:"mdef"`
+	Speed               int     `json:"speed"`
+	Jump                int     `json:"jump"`
+	Kb                  int     `json:"kb"`
+	Aspd                int     `json:"aspd"`
+	Cspd                int     `json:"cspd"`
+	Crit                int     `json:"crit"`
+	Cdmg                int     `json:"cdmg"`
+	CompoundType        int     `json:"compoundType"`
+	Cost                int     `json:"cost"`
+	CurseId             int     `json:"curseId"`
+	CurseMaxKills       int     `json:"curseMaxKills"`
+	ForceRenderBelow    bool	`json:"forceRenderBelow"`
+	GemRegionX          int     `json:"gemRegionX"`
+	GemRegionY          int     `json:"gemRegionY"`
+	Hotkey              int     `json:"hotkey"`
+	Icon                int     `json:"icon"`
+	EggId               int     `json:"eggId"`
+	MiniGemRegion       int     `json:"miniGemRegion"`
+	ShowHair            bool	`json:"showHair"`
+	StabBonus           int     `json:"stabBonus"`
+	Subtype             string  `json:"subtype"`
+	Success             int     `json:"success"`
+	Type                int     `json:"type"`
+	VisualName          string  `json:"visualName"`
 }
 
 var items Items;
 
-func getOneItem(w http.ResponseWriter, r *http.Request) {
+func showItemById(w http.ResponseWriter, r *http.Request) {
 	id, err := strconv.Atoi(mux.Vars(r)["id"])
 	if err != nil {
 		fmt.Println("error parsing")
@@ -37,16 +65,12 @@ func getOneItem(w http.ResponseWriter, r *http.Request) {
 	}
 }
 
-func getAllItems(w http.ResponseWriter, r *http.Request) {
+func listItems(w http.ResponseWriter, r *http.Request) {
 	json.NewEncoder(w).Encode(items);
 }
 
-func homeLink(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintf(w, "Welcome Home!");
-}
-
 func main() {
-	fmt.Println("Initializing")
+	fmt.Println("Initializing...")
 
 	// Attempt to open json file
 	jsonFile, err := os.Open("items.json")
@@ -65,16 +89,16 @@ func main() {
 	json.Unmarshal(byteValue, &items)
 
 	// Create our router
-	router := mux.NewRouter().StrictSlash(true);
-	router.HandleFunc("/", homeLink);
-	router.HandleFunc("/items", getAllItems).Methods("GET");
-	router.HandleFunc("/items/{id}", getOneItem).Methods("GET");
+	router := mux.NewRouter().StrictSlash(true)
+	router.HandleFunc("/v1/items", listItems).Methods("GET")
+	router.HandleFunc("/v1/items/{id}", showItemById).Methods("GET")
+	router.PathPrefix("/").Handler(http.FileServer(http.Dir(".")))
 
-	// Listen!
+	// Listen on whatever port heroku wants. 8080 by default.
 	port := os.Getenv("PORT")
-	fmt.Println(port)
 	if port == "" {
 		port = "8080"
 	}
+	fmt.Println("Listening on port", port)
 	log.Fatal(http.ListenAndServe(fmt.Sprintf(":%s", port), router));
 }

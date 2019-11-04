@@ -143,7 +143,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": "Recovers 50 HP.",
+            "description": "Recovers 50 HP.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -289,7 +289,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": "Recovers 250 HP.",
+            "description": "Recovers 250 HP.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -435,7 +435,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": "Recovers 800 HP.",
+            "description": "Recovers 800 HP.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -581,7 +581,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": "Recover HP/prevent Freeze for 10 minutes.",
+            "description": "Recover HP/prevent Freeze for 10 minutes.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -727,7 +727,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": "Contains a few gem shards. Open it",
+            "description": "Contains a few gem shards. Open it",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -873,7 +873,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": "Walk speed increased for 10 minutes.",
+            "description": "Walk speed increased for 10 minutes.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -1019,7 +1019,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": "Raises atk/Lowers def for ten minutes.",
+            "description": "Raises atk/Lowers def for ten minutes.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -1165,7 +1165,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": "Resets all stat and skill points.",
+            "description": "Resets all stat and skill points.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -1311,7 +1311,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 10,
-            "vanillaDescription": "A fastener with a helical ridge thread.",
+            "description": "A fastener with a helical ridge thread.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -1457,7 +1457,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 10,
-            "vanillaDescription": "Used for quests. Happy Halloween!",
+            "description": "Used for quests. Happy Halloween!",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -1603,7 +1603,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 10,
-            "vanillaDescription": "A piece of a witch's hat. Happy Halloween",
+            "description": "A piece of a witch's hat. Happy Halloween",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -1749,7 +1749,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": "Contains several gem shards. Open it",
+            "description": "Contains several gem shards. Open it",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -1895,7 +1895,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": "Restores all EP.",
+            "description": "Restores all EP.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -2041,7 +2041,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": "Teleport to the nearest town.",
+            "description": "Teleport to the nearest town.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -2187,7 +2187,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": "Teleport to the PVP arena",
+            "description": "Teleport to the PVP arena",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -2333,7 +2333,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": "Doubles drop rate of items for ten minutes.",
+            "description": "Doubles drop rate of items for ten minutes.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -2479,7 +2479,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": "Resets all stat and skill points.",
+            "description": "Resets all stat and skill points.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -2625,7 +2625,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": "A small amount of food for a monster.",
+            "description": "A small amount of food for a monster.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -2771,7 +2771,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": "A medium-sized meal for a monster.",
+            "description": "A medium-sized meal for a monster.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -2917,7 +2917,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": "A large feast for a monster.",
+            "description": "A large feast for a monster.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -3063,7 +3063,7 @@
             "subtype": "STAFF",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "30% chance to poison on hit.",
+            "description": "30% chance to poison on hit.",
             "visualName": "sprites/equips/weapons/10.png"
         },
         {
@@ -3209,7 +3209,7 @@
             "subtype": "SPEAR",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "Additional 30% Stab damage",
+            "description": "Additional 30% Stab damage",
             "visualName": "sprites/equips/weapons/7.png"
         },
         {
@@ -3355,7 +3355,7 @@
             "subtype": "AXE",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "Give enemies the axe. No stab bonus.",
+            "description": "Give enemies the axe. No stab bonus.",
             "visualName": "sprites/equips/weapons/4.png"
         },
         {
@@ -3501,7 +3501,7 @@
             "subtype": "MACE",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A giant wooden club.",
+            "description": "A giant wooden club.",
             "visualName": "sprites/equips/weapons/9.png"
         },
         {
@@ -3647,7 +3647,7 @@
             "subtype": "SWORD",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "ATK = LVL/2.",
+            "description": "ATK = LVL/2.",
             "visualName": "sprites/equips/weapons/6.png"
         },
         {
@@ -3793,7 +3793,7 @@
             "subtype": "MACE",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A large femur used as a weapon.",
+            "description": "A large femur used as a weapon.",
             "visualName": "sprites/equips/weapons/2.png"
         },
         {
@@ -3939,7 +3939,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "Raggedy ocean-worn scrap armor.",
+            "description": "Raggedy ocean-worn scrap armor.",
             "visualName": "sprites/equips/armor/1.png"
         },
         {
@@ -4085,7 +4085,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "Looks strangely familiar.",
+            "description": "Looks strangely familiar.",
             "visualName": "sprites/equips/armor/2.png"
         },
         {
@@ -4231,7 +4231,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "A large silk coat which aids in casting.",
+            "description": "A large silk coat which aids in casting.",
             "visualName": "sprites/equips/armor/3.png"
         },
         {
@@ -4377,7 +4377,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "Go crazy and HIDE NOTHING BABY",
+            "description": "Go crazy and HIDE NOTHING BABY",
             "visualName": "sprites/equips/armor/4.png"
         },
         {
@@ -4523,7 +4523,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "Emirpoen's navy blue hoodie.",
+            "description": "Emirpoen's navy blue hoodie.",
             "visualName": "sprites/equips/armor/5.png"
         },
         {
@@ -4669,7 +4669,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "Powerful navy-colored casting armor.",
+            "description": "Powerful navy-colored casting armor.",
             "visualName": "sprites/equips/armor/8.png"
         },
         {
@@ -4815,7 +4815,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "Heavy armor from the Bronze Age.",
+            "description": "Heavy armor from the Bronze Age.",
             "visualName": "sprites/equips/armor/7.png"
         },
         {
@@ -4961,7 +4961,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "A dark cloak with a large collar.",
+            "description": "A dark cloak with a large collar.",
             "visualName": "sprites/equips/armor/6.png"
         },
         {
@@ -5107,7 +5107,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "A heavy, warm cloak for casters.",
+            "description": "A heavy, warm cloak for casters.",
             "visualName": "sprites/equips/armor/9.png"
         },
         {
@@ -5253,7 +5253,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "Heavy protective armor. Iron up",
+            "description": "Heavy protective armor. Iron up",
             "visualName": "sprites/equips/armor/10.png"
         },
         {
@@ -5399,7 +5399,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "A ghostly white casting robe.",
+            "description": "A ghostly white casting robe.",
             "visualName": "sprites/equips/armor/11.png"
         },
         {
@@ -5545,7 +5545,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "Armor crafted by mighty Yetis.",
+            "description": "Armor crafted by mighty Yetis.",
             "visualName": "sprites/equips/armor/12.png"
         },
         {
@@ -5691,7 +5691,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "Lightweight armor made of leather.",
+            "description": "Lightweight armor made of leather.",
             "visualName": "sprites/equips/armor/5.png"
         },
         {
@@ -5837,7 +5837,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "Light armor strewn with wolf pelt.",
+            "description": "Light armor strewn with wolf pelt.",
             "visualName": "sprites/equips/armor/13.png"
         },
         {
@@ -5983,7 +5983,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "Armor forged for mighty warriors.",
+            "description": "Armor forged for mighty warriors.",
             "visualName": "sprites/equips/armor/16.png"
         },
         {
@@ -6129,7 +6129,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "Armor forged for agile assassins.",
+            "description": "Armor forged for agile assassins.",
             "visualName": "sprites/equips/armor/15.png"
         },
         {
@@ -6275,7 +6275,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "Armor forged for wise wizards.",
+            "description": "Armor forged for wise wizards.",
             "visualName": "sprites/equips/armor/14.png"
         },
         {
@@ -6421,7 +6421,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "A rare, dark armor.",
+            "description": "A rare, dark armor.",
             "visualName": "sprites/equips/armor/17.png"
         },
         {
@@ -6567,7 +6567,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Wearing this is on your bucket list.",
+            "description": "Wearing this is on your bucket list.",
             "visualName": "sprites/equips/helmet/7.png"
         },
         {
@@ -6713,7 +6713,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Dark and mysterious.",
+            "description": "Dark and mysterious.",
             "visualName": "sprites/equips/helmet/1.png"
         },
         {
@@ -6859,7 +6859,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "A tall, brown magician hat.",
+            "description": "A tall, brown magician hat.",
             "visualName": "sprites/equips/helmet/2.png"
         },
         {
@@ -7005,7 +7005,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Weapon Throw Distance + 25%",
+            "description": "Weapon Throw Distance + 25%",
             "visualName": "sprites/equips/helmet/8.png"
         },
         {
@@ -7151,7 +7151,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "All bronze and no brains.",
+            "description": "All bronze and no brains.",
             "visualName": "sprites/equips/helmet/4.png"
         },
         {
@@ -7297,7 +7297,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Doesn't show power levels.",
+            "description": "Doesn't show power levels.",
             "visualName": "sprites/equips/helmet/9.png"
         },
         {
@@ -7443,7 +7443,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "How yummy! A real sparkling treat.",
+            "description": "How yummy! A real sparkling treat.",
             "visualName": "sprites/equips/helmet/10.png"
         },
         {
@@ -7589,7 +7589,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Very classy and fashionable",
+            "description": "Very classy and fashionable",
             "visualName": "sprites/equips/helmet/11.png"
         },
         {
@@ -7735,7 +7735,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "A hat worn by pilots and steampunks.",
+            "description": "A hat worn by pilots and steampunks.",
             "visualName": "sprites/equips/helmet/12.png"
         },
         {
@@ -7881,7 +7881,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Increases enemy spawn.",
+            "description": "Increases enemy spawn.",
             "visualName": "sprites/equips/helmet/13.png"
         },
         {
@@ -8027,7 +8027,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Emirpoen's navy blue hoodie.",
+            "description": "Emirpoen's navy blue hoodie.",
             "visualName": "sprites/equips/helmet/14.png"
         },
         {
@@ -8173,7 +8173,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Balance it on your head.",
+            "description": "Balance it on your head.",
             "visualName": "sprites/equips/helmet/15.png"
         },
         {
@@ -8319,7 +8319,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Quakeman's custom fedora.",
+            "description": "Quakeman's custom fedora.",
             "visualName": "sprites/equips/helmet/16.png"
         },
         {
@@ -8465,7 +8465,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "A strange mask full of dark energy.",
+            "description": "A strange mask full of dark energy.",
             "visualName": "sprites/equips/helmet/18.png"
         },
         {
@@ -8611,7 +8611,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Evil demon horns.",
+            "description": "Evil demon horns.",
             "visualName": "sprites/equips/helmet/17.png"
         },
         {
@@ -8757,7 +8757,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 5,
-            "vanillaDescription": "Lightweight jumping boots.",
+            "description": "Lightweight jumping boots.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -8903,7 +8903,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 5,
-            "vanillaDescription": "A charm representing wise courage.",
+            "description": "A charm representing wise courage.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -9049,7 +9049,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 5,
-            "vanillaDescription": "Heavy spiked boots. Ouch",
+            "description": "Heavy spiked boots. Ouch",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -9195,7 +9195,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 5,
-            "vanillaDescription": "This claw may be used as an accessory.",
+            "description": "This claw may be used as an accessory.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -9341,7 +9341,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 5,
-            "vanillaDescription": "A charm symbolizing great strength.",
+            "description": "A charm symbolizing great strength.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -9487,7 +9487,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 5,
-            "vanillaDescription": "A very rare set of dark wings.",
+            "description": "A very rare set of dark wings.",
             "visualName": "sprites/equips/other/1.png"
         },
         {
@@ -9633,7 +9633,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 5,
-            "vanillaDescription": "A wearable badge with a frog print.",
+            "description": "A wearable badge with a frog print.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -9779,7 +9779,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 5,
-            "vanillaDescription": "A carrot accessory. Not for eating.",
+            "description": "A carrot accessory. Not for eating.",
             "visualName": "sprites/equips/other/3.png"
         },
         {
@@ -9925,7 +9925,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 5,
-            "vanillaDescription": "A treasured ring of the Kappas.",
+            "description": "A treasured ring of the Kappas.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -10071,7 +10071,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 5,
-            "vanillaDescription": "Enemies may drop Gem Shards",
+            "description": "Enemies may drop Gem Shards",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -10217,7 +10217,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 5,
-            "vanillaDescription": "An old charm worn by a great mage.",
+            "description": "An old charm worn by a great mage.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -10363,7 +10363,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 5,
-            "vanillaDescription": "An accessory made of ice.",
+            "description": "An accessory made of ice.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -10509,7 +10509,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 5,
-            "vanillaDescription": "A sturdy defensive accessory.",
+            "description": "A sturdy defensive accessory.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -10655,7 +10655,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 5,
-            "vanillaDescription": "A sturdy defensive accessory.",
+            "description": "A sturdy defensive accessory.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -10801,7 +10801,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 5,
-            "vanillaDescription": "An old, accursed charm.",
+            "description": "An old, accursed charm.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -10947,7 +10947,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 5,
-            "vanillaDescription": "This accessory doubles item drop rate.",
+            "description": "This accessory doubles item drop rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -11093,7 +11093,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 5,
-            "vanillaDescription": "A cute robot yeti accessory.",
+            "description": "A cute robot yeti accessory.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -11239,7 +11239,7 @@
             "subtype": "NONE",
             "success": 100,
             "type": 6,
-            "vanillaDescription": "Compounds with Weapon. 100% success rate.",
+            "description": "Compounds with Weapon. 100% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -11385,7 +11385,7 @@
             "subtype": "NONE",
             "success": 70,
             "type": 6,
-            "vanillaDescription": "Compounds with Weapon. 70% success rate.",
+            "description": "Compounds with Weapon. 70% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -11531,7 +11531,7 @@
             "subtype": "NONE",
             "success": 30,
             "type": 6,
-            "vanillaDescription": "Compounds with Weapon. 30% success rate.",
+            "description": "Compounds with Weapon. 30% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -11677,7 +11677,7 @@
             "subtype": "NONE",
             "success": 100,
             "type": 6,
-            "vanillaDescription": "Compounds with Weapon. 100% success rate.",
+            "description": "Compounds with Weapon. 100% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -11823,7 +11823,7 @@
             "subtype": "NONE",
             "success": 70,
             "type": 6,
-            "vanillaDescription": "Compounds with Weapon. 70% success rate.",
+            "description": "Compounds with Weapon. 70% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -11969,7 +11969,7 @@
             "subtype": "NONE",
             "success": 30,
             "type": 6,
-            "vanillaDescription": "Compounds with Weapon. 30% success rate.",
+            "description": "Compounds with Weapon. 30% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -12115,7 +12115,7 @@
             "subtype": "NONE",
             "success": 50,
             "type": 6,
-            "vanillaDescription": "Compounds with Weapon. 50% success rate.",
+            "description": "Compounds with Weapon. 50% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -12261,7 +12261,7 @@
             "subtype": "NONE",
             "success": 100,
             "type": 6,
-            "vanillaDescription": "Compounds with Helm. 100% success rate.",
+            "description": "Compounds with Helm. 100% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -12407,7 +12407,7 @@
             "subtype": "NONE",
             "success": 70,
             "type": 6,
-            "vanillaDescription": "Compounds with Helm. 70% success rate.",
+            "description": "Compounds with Helm. 70% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -12553,7 +12553,7 @@
             "subtype": "NONE",
             "success": 30,
             "type": 6,
-            "vanillaDescription": "Compounds with Helm. 30% success rate.",
+            "description": "Compounds with Helm. 30% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -12699,7 +12699,7 @@
             "subtype": "NONE",
             "success": 100,
             "type": 6,
-            "vanillaDescription": "Compounds with Helm. 100% success rate.",
+            "description": "Compounds with Helm. 100% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -12845,7 +12845,7 @@
             "subtype": "NONE",
             "success": 70,
             "type": 6,
-            "vanillaDescription": "Compounds with Helm. 70% success rate.",
+            "description": "Compounds with Helm. 70% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -12991,7 +12991,7 @@
             "subtype": "NONE",
             "success": 30,
             "type": 6,
-            "vanillaDescription": "Compounds with Helm. 30% success rate.",
+            "description": "Compounds with Helm. 30% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -13137,7 +13137,7 @@
             "subtype": "NONE",
             "success": 60,
             "type": 6,
-            "vanillaDescription": "Compounds with Helm. 60% success rate.",
+            "description": "Compounds with Helm. 60% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -13283,7 +13283,7 @@
             "subtype": "NONE",
             "success": 30,
             "type": 6,
-            "vanillaDescription": "Compounds with Helm. 30% success rate.",
+            "description": "Compounds with Helm. 30% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -13429,7 +13429,7 @@
             "subtype": "NONE",
             "success": 60,
             "type": 6,
-            "vanillaDescription": "Compounds with Helm. 60% success rate.",
+            "description": "Compounds with Helm. 60% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -13575,7 +13575,7 @@
             "subtype": "NONE",
             "success": 30,
             "type": 6,
-            "vanillaDescription": "Compounds with Helm. 30% success rate.",
+            "description": "Compounds with Helm. 30% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -13721,7 +13721,7 @@
             "subtype": "NONE",
             "success": 100,
             "type": 6,
-            "vanillaDescription": "Compounds with Armor. 100% success rate.",
+            "description": "Compounds with Armor. 100% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -13867,7 +13867,7 @@
             "subtype": "NONE",
             "success": 70,
             "type": 6,
-            "vanillaDescription": "Compounds with Armor. 70% success rate.",
+            "description": "Compounds with Armor. 70% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -14013,7 +14013,7 @@
             "subtype": "NONE",
             "success": 30,
             "type": 6,
-            "vanillaDescription": "Compounds with Armor. 30% success rate.",
+            "description": "Compounds with Armor. 30% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -14159,7 +14159,7 @@
             "subtype": "NONE",
             "success": 100,
             "type": 6,
-            "vanillaDescription": "Compounds with Armor. 100% success rate.",
+            "description": "Compounds with Armor. 100% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -14305,7 +14305,7 @@
             "subtype": "NONE",
             "success": 70,
             "type": 6,
-            "vanillaDescription": "Compounds with Armor. 70% success rate.",
+            "description": "Compounds with Armor. 70% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -14451,7 +14451,7 @@
             "subtype": "NONE",
             "success": 30,
             "type": 6,
-            "vanillaDescription": "Compounds with Armor. 30% success rate.",
+            "description": "Compounds with Armor. 30% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -14597,7 +14597,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "RIP Ouya. I loved you. :(",
+            "description": "RIP Ouya. I loved you. :(",
             "visualName": "sprites/equips/helmet/43.png"
         },
         {
@@ -14743,7 +14743,7 @@
             "subtype": "NONE",
             "success": 100,
             "type": 6,
-            "vanillaDescription": "Compounds with Other. 100% success rate.",
+            "description": "Compounds with Other. 100% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -14889,7 +14889,7 @@
             "subtype": "NONE",
             "success": 70,
             "type": 6,
-            "vanillaDescription": "Compounds with Other. 70% success rate.",
+            "description": "Compounds with Other. 70% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -15035,7 +15035,7 @@
             "subtype": "NONE",
             "success": 30,
             "type": 6,
-            "vanillaDescription": "Compounds with Other. 30% success rate.",
+            "description": "Compounds with Other. 30% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -15181,7 +15181,7 @@
             "subtype": "NONE",
             "success": 100,
             "type": 6,
-            "vanillaDescription": "Compounds with Other. 100% success rate.",
+            "description": "Compounds with Other. 100% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -15327,7 +15327,7 @@
             "subtype": "NONE",
             "success": 70,
             "type": 6,
-            "vanillaDescription": "Compounds with Other. 70% success rate.",
+            "description": "Compounds with Other. 70% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -15473,7 +15473,7 @@
             "subtype": "NONE",
             "success": 30,
             "type": 6,
-            "vanillaDescription": "Compounds with Other. 30% success rate.",
+            "description": "Compounds with Other. 30% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -15619,7 +15619,7 @@
             "subtype": "NONE",
             "success": 60,
             "type": 6,
-            "vanillaDescription": "Compounds with Other. 60% success rate.",
+            "description": "Compounds with Other. 60% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -15765,7 +15765,7 @@
             "subtype": "NONE",
             "success": 60,
             "type": 6,
-            "vanillaDescription": "Compounds with Other. 60% success rate.",
+            "description": "Compounds with Other. 60% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -15911,7 +15911,7 @@
             "subtype": "NONE",
             "success": 60,
             "type": 6,
-            "vanillaDescription": "Compounds with Other. 60% success rate.",
+            "description": "Compounds with Other. 60% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -16057,7 +16057,7 @@
             "subtype": "NONE",
             "success": 60,
             "type": 6,
-            "vanillaDescription": "Compounds with Other. 60% success rate.",
+            "description": "Compounds with Other. 60% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -16203,7 +16203,7 @@
             "subtype": "NONE",
             "success": 60,
             "type": 6,
-            "vanillaDescription": "Compounds with Other. 60% success rate.",
+            "description": "Compounds with Other. 60% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -16349,7 +16349,7 @@
             "subtype": "NONE",
             "success": 60,
             "type": 6,
-            "vanillaDescription": "Compounds with Other. 60% success rate.",
+            "description": "Compounds with Other. 60% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -16495,7 +16495,7 @@
             "subtype": "NONE",
             "success": 60,
             "type": 6,
-            "vanillaDescription": "Compounds with Other. 60% success rate.",
+            "description": "Compounds with Other. 60% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -16641,7 +16641,7 @@
             "subtype": "NONE",
             "success": 60,
             "type": 6,
-            "vanillaDescription": "Compounds with Other. 60% success rate.",
+            "description": "Compounds with Other. 60% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -16787,7 +16787,7 @@
             "subtype": "NONE",
             "success": 60,
             "type": 6,
-            "vanillaDescription": "Compounds with Other. 60% success rate.",
+            "description": "Compounds with Other. 60% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -16933,7 +16933,7 @@
             "subtype": "NONE",
             "success": 60,
             "type": 6,
-            "vanillaDescription": "Compounds with Other. 60% success rate.",
+            "description": "Compounds with Other. 60% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -17079,7 +17079,7 @@
             "subtype": "NONE",
             "success": 60,
             "type": 6,
-            "vanillaDescription": "Compounds with Other. 60% success rate.",
+            "description": "Compounds with Other. 60% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -17225,7 +17225,7 @@
             "subtype": "NONE",
             "success": 60,
             "type": 6,
-            "vanillaDescription": "Compounds with Other. 60% success rate.",
+            "description": "Compounds with Other. 60% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -17371,7 +17371,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "It's still alive. Wear it",
+            "description": "It's still alive. Wear it",
             "visualName": "sprites/equips/helmet/19.png"
         },
         {
@@ -17517,7 +17517,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Want to look like an ugly troll?",
+            "description": "Want to look like an ugly troll?",
             "visualName": "sprites/equips/helmet/20.png"
         },
         {
@@ -17663,7 +17663,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Live. Fight. Wear Iron.",
+            "description": "Live. Fight. Wear Iron.",
             "visualName": "sprites/equips/helmet/5.png"
         },
         {
@@ -17809,7 +17809,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "A fashionable white yeti-shaped hat.",
+            "description": "A fashionable white yeti-shaped hat.",
             "visualName": "sprites/equips/helmet/21.png"
         },
         {
@@ -17955,7 +17955,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "A red cap that droops downward.",
+            "description": "A red cap that droops downward.",
             "visualName": "sprites/equips/helmet/22.png"
         },
         {
@@ -18101,7 +18101,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "A yellow cap that droops downward.",
+            "description": "A yellow cap that droops downward.",
             "visualName": "sprites/equips/helmet/24.png"
         },
         {
@@ -18247,7 +18247,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "A blue cap that droops downward.",
+            "description": "A blue cap that droops downward.",
             "visualName": "sprites/equips/helmet/23.png"
         },
         {
@@ -18393,7 +18393,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Look like a lion with this mask.",
+            "description": "Look like a lion with this mask.",
             "visualName": "sprites/equips/helmet/25.png"
         },
         {
@@ -18539,7 +18539,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Doubles drop rate of items.",
+            "description": "Doubles drop rate of items.",
             "visualName": "sprites/equips/helmet/26.png"
         },
         {
@@ -18685,7 +18685,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Look fashionable and trendy.",
+            "description": "Look fashionable and trendy.",
             "visualName": "sprites/equips/helmet/27.png"
         },
         {
@@ -18831,7 +18831,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Feats by Dr. Gray.",
+            "description": "Feats by Dr. Gray.",
             "visualName": "sprites/equips/helmet/28.png"
         },
         {
@@ -18977,7 +18977,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "A rainbow-colored afro wig.",
+            "description": "A rainbow-colored afro wig.",
             "visualName": "sprites/equips/helmet/29.png"
         },
         {
@@ -19123,7 +19123,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Look like a rabbit with this.",
+            "description": "Look like a rabbit with this.",
             "visualName": "sprites/equips/helmet/30.png"
         },
         {
@@ -19269,7 +19269,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "A hat and monocle combo.",
+            "description": "A hat and monocle combo.",
             "visualName": "sprites/equips/helmet/31.png"
         },
         {
@@ -19415,7 +19415,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Increases Flips acquired by 30%",
+            "description": "Increases Flips acquired by 30%",
             "visualName": "sprites/equips/helmet/32.png"
         },
         {
@@ -19561,7 +19561,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "A helmet that lures enemies.",
+            "description": "A helmet that lures enemies.",
             "visualName": "sprites/equips/helmet/33.png"
         },
         {
@@ -19707,7 +19707,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Carved like a Jack-o-Lantern.",
+            "description": "Carved like a Jack-o-Lantern.",
             "visualName": "sprites/equips/helmet/34.png"
         },
         {
@@ -19853,7 +19853,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "A tall, pointed cap worn by witches.",
+            "description": "A tall, pointed cap worn by witches.",
             "visualName": "sprites/equips/helmet/36.png"
         },
         {
@@ -19999,7 +19999,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "A spooky, expressionless mask.",
+            "description": "A spooky, expressionless mask.",
             "visualName": "sprites/equips/helmet/35.png"
         },
         {
@@ -20145,7 +20145,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "A spooky, expressionless mask.",
+            "description": "A spooky, expressionless mask.",
             "visualName": "sprites/equips/helmet/35.png"
         },
         {
@@ -20291,7 +20291,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "It's burning, but put it on your head.",
+            "description": "It's burning, but put it on your head.",
             "visualName": "sprites/equips/helmet/47.png"
         },
         {
@@ -20437,7 +20437,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Worn by ancient warriors of the North.",
+            "description": "Worn by ancient warriors of the North.",
             "visualName": "sprites/equips/helmet/37.png"
         },
         {
@@ -20583,7 +20583,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "A little pom antenna for your head.",
+            "description": "A little pom antenna for your head.",
             "visualName": "sprites/equips/helmet/38.png"
         },
         {
@@ -20729,7 +20729,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "A rare, dark hood.",
+            "description": "A rare, dark hood.",
             "visualName": "sprites/equips/helmet/39.png"
         },
         {
@@ -20875,7 +20875,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "An icicle-shaped conic hat.",
+            "description": "An icicle-shaped conic hat.",
             "visualName": "sprites/equips/helmet/40.png"
         },
         {
@@ -21021,7 +21021,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "COME ON STEP IT UP.",
+            "description": "COME ON STEP IT UP.",
             "visualName": "sprites/equips/helmet/41.png"
         },
         {
@@ -21167,7 +21167,7 @@
             "subtype": "SWORD",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "It's your first weapon.",
+            "description": "It's your first weapon.",
             "visualName": "sprites/equips/weapons/1.png"
         },
         {
@@ -21313,7 +21313,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": "Gain +50% EXP for 10 minutes.",
+            "description": "Gain +50% EXP for 10 minutes.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -21459,7 +21459,7 @@
             "subtype": "SWORD",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A narrow iron sabre for stabbing.",
+            "description": "A narrow iron sabre for stabbing.",
             "visualName": "sprites/equips/weapons/5.png"
         },
         {
@@ -21605,7 +21605,7 @@
             "subtype": "WAND",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "For entry-level casters.",
+            "description": "For entry-level casters.",
             "visualName": "sprites/equips/weapons/3.png"
         },
         {
@@ -21751,7 +21751,7 @@
             "subtype": "WAND",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A simple wand made from red oak.",
+            "description": "A simple wand made from red oak.",
             "visualName": "sprites/equips/weapons/3.png"
         },
         {
@@ -21897,7 +21897,7 @@
             "subtype": "SPEAR",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "Additional 30% Stab damage",
+            "description": "Additional 30% Stab damage",
             "visualName": "sprites/equips/weapons/11.png"
         },
         {
@@ -22043,7 +22043,7 @@
             "subtype": "STAFF",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A solid silver casting staff.",
+            "description": "A solid silver casting staff.",
             "visualName": "sprites/equips/weapons/12.png"
         },
         {
@@ -22189,7 +22189,7 @@
             "subtype": "MACE",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "30% chance to freeze on hit.",
+            "description": "30% chance to freeze on hit.",
             "visualName": "sprites/equips/weapons/14.png"
         },
         {
@@ -22335,7 +22335,7 @@
             "subtype": "SWORD",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A heavy, iron sword.",
+            "description": "A heavy, iron sword.",
             "visualName": "sprites/equips/weapons/15.png"
         },
         {
@@ -22481,7 +22481,7 @@
             "subtype": "MACE",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "Deliciously deadly peppermint candy.",
+            "description": "Deliciously deadly peppermint candy.",
             "visualName": "sprites/equips/weapons/16.png"
         },
         {
@@ -22627,7 +22627,7 @@
             "subtype": "AXE",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A trusty pickaxe. No stab bonus.",
+            "description": "A trusty pickaxe. No stab bonus.",
             "visualName": "sprites/equips/weapons/17.png"
         },
         {
@@ -22773,7 +22773,7 @@
             "subtype": "AXE",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "This is a big axe.",
+            "description": "This is a big axe.",
             "visualName": "sprites/equips/weapons/18.png"
         },
         {
@@ -22919,7 +22919,7 @@
             "subtype": "SWORD",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "Mystical sword that can summon light.",
+            "description": "Mystical sword that can summon light.",
             "visualName": "sprites/equips/weapons/20.png"
         },
         {
@@ -23065,7 +23065,7 @@
             "subtype": "AXE",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A large, cold axe. No stab bonus.",
+            "description": "A large, cold axe. No stab bonus.",
             "visualName": "sprites/equips/weapons/19.png"
         },
         {
@@ -23211,7 +23211,7 @@
             "subtype": "SWORD",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "Half sword, half chainsaw, 100% crazy.",
+            "description": "Half sword, half chainsaw, 100% crazy.",
             "visualName": "sprites/equips/weapons/25.png"
         },
         {
@@ -23357,7 +23357,7 @@
             "subtype": "WAND",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "Possesses radiant magical power.",
+            "description": "Possesses radiant magical power.",
             "visualName": "sprites/equips/weapons/26.png"
         },
         {
@@ -23503,7 +23503,7 @@
             "subtype": "STAFF",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "Increased casting speed.",
+            "description": "Increased casting speed.",
             "visualName": "sprites/equips/weapons/27.png"
         },
         {
@@ -23649,7 +23649,7 @@
             "subtype": "DAGGER",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A quick and dangerous killing tool.",
+            "description": "A quick and dangerous killing tool.",
             "visualName": "sprites/equips/weapons/28.png"
         },
         {
@@ -23795,7 +23795,7 @@
             "subtype": "SPEAR",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "Additional 30% Stab damage",
+            "description": "Additional 30% Stab damage",
             "visualName": "sprites/equips/weapons/29.png"
         },
         {
@@ -23941,7 +23941,7 @@
             "subtype": "SWORD",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A dark sword with a mysterious power.",
+            "description": "A dark sword with a mysterious power.",
             "visualName": "sprites/equips/weapons/6.png"
         },
         {
@@ -24087,7 +24087,7 @@
             "subtype": "MACE",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "Punches hard. Really hard.",
+            "description": "Punches hard. Really hard.",
             "visualName": "sprites/equips/weapons/30.png"
         },
         {
@@ -24233,7 +24233,7 @@
             "subtype": "MACE",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A dark, powerful casting tool.",
+            "description": "A dark, powerful casting tool.",
             "visualName": "sprites/equips/weapons/32.png"
         },
         {
@@ -24379,7 +24379,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 10,
-            "vanillaDescription": "Looks like a piece of a robotic monster.",
+            "description": "Looks like a piece of a robotic monster.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -24525,7 +24525,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 10,
-            "vanillaDescription": "Looks like a piece of a robotic monster.",
+            "description": "Looks like a piece of a robotic monster.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -24671,7 +24671,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 10,
-            "vanillaDescription": "Looks like a piece of a robotic monster.",
+            "description": "Looks like a piece of a robotic monster.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -24817,7 +24817,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 8,
-            "vanillaDescription": "Passively drop a healing item when attacking.",
+            "description": "Passively drop a healing item when attacking.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -24963,7 +24963,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Avoid the plague with this mask.",
+            "description": "Avoid the plague with this mask.",
             "visualName": "sprites/equips/helmet/44.png"
         },
         {
@@ -25109,7 +25109,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "A mindful spirit.",
+            "description": "A mindful spirit.",
             "visualName": "sprites/equips/helmet/46.png"
         },
         {
@@ -25255,7 +25255,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Farm at the speed of light.",
+            "description": "Farm at the speed of light.",
             "visualName": "sprites/equips/helmet/45.png"
         },
         {
@@ -25401,7 +25401,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "Become the number one villain.",
+            "description": "Become the number one villain.",
             "visualName": "sprites/equips/armor/18.png"
         },
         {
@@ -25547,7 +25547,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "Become the world's best hero.",
+            "description": "Become the world's best hero.",
             "visualName": "sprites/equips/armor/19.png"
         },
         {
@@ -25693,7 +25693,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "A crimson-colored jacket.",
+            "description": "A crimson-colored jacket.",
             "visualName": "sprites/equips/armor/20.png"
         },
         {
@@ -25839,7 +25839,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "A blue-colored cloak.",
+            "description": "A blue-colored cloak.",
             "visualName": "sprites/equips/armor/21.png"
         },
         {
@@ -25985,7 +25985,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "Dark armor made from onyx gems.",
+            "description": "Dark armor made from onyx gems.",
             "visualName": "sprites/equips/armor/22.png"
         },
         {
@@ -26131,7 +26131,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": null,
+            "description": null,
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -26277,7 +26277,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": null,
+            "description": null,
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -26423,7 +26423,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": null,
+            "description": null,
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -26569,7 +26569,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": null,
+            "description": null,
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -26715,7 +26715,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": null,
+            "description": null,
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -26861,7 +26861,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": null,
+            "description": null,
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -27007,7 +27007,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": null,
+            "description": null,
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -27153,7 +27153,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": null,
+            "description": null,
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -27299,7 +27299,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": null,
+            "description": null,
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -27445,7 +27445,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": null,
+            "description": null,
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -27591,7 +27591,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "!shell_armor_desc",
+            "description": "!shell_armor_desc",
             "visualName": "sprites/equips/armor/25.png"
         },
         {
@@ -27737,7 +27737,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "!wolf_cloak_desc",
+            "description": "!wolf_cloak_desc",
             "visualName": "sprites/equips/armor/24.png"
         },
         {
@@ -27883,7 +27883,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 5,
-            "vanillaDescription": "Prevents visits to purgatory.",
+            "description": "Prevents visits to purgatory.",
             "visualName": "sprites/equips/other/4.png"
         },
         {
@@ -28029,7 +28029,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 5,
-            "vanillaDescription": "Wear it to increase your recovery.",
+            "description": "Wear it to increase your recovery.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -28175,7 +28175,7 @@
             "subtype": "GUN",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A simple gun that fires light pellets.",
+            "description": "A simple gun that fires light pellets.",
             "visualName": "sprites/equips/weapons/38.png"
         },
         {
@@ -28321,7 +28321,7 @@
             "subtype": "GUN",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A standard gun.",
+            "description": "A standard gun.",
             "visualName": "sprites/equips/weapons/39.png"
         },
         {
@@ -28467,7 +28467,7 @@
             "subtype": "GUN",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "Sometimes poisons. Don't ask how it turned green. ",
+            "description": "Sometimes poisons. Don't ask how it turned green. ",
             "visualName": "sprites/equips/weapons/40.png"
         },
         {
@@ -28613,7 +28613,7 @@
             "subtype": "GUN",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A gun used by the Kappa.",
+            "description": "A gun used by the Kappa.",
             "visualName": "sprites/equips/weapons/41.png"
         },
         {
@@ -28759,7 +28759,7 @@
             "subtype": "GUN",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A small but effective pistol.",
+            "description": "A small but effective pistol.",
             "visualName": "sprites/equips/weapons/39.png"
         },
         {
@@ -28905,7 +28905,7 @@
             "subtype": "GUN",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A gun imbued with ice.",
+            "description": "A gun imbued with ice.",
             "visualName": "sprites/equips/weapons/50.png"
         },
         {
@@ -29051,7 +29051,7 @@
             "subtype": "GUN",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A pistol that fires rapidly.",
+            "description": "A pistol that fires rapidly.",
             "visualName": "sprites/equips/weapons/43.png"
         },
         {
@@ -29197,7 +29197,7 @@
             "subtype": "GUN",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A gun purchased from a vending machine.",
+            "description": "A gun purchased from a vending machine.",
             "visualName": "sprites/equips/weapons/46.png"
         },
         {
@@ -29343,7 +29343,7 @@
             "subtype": "GUN",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A futuristic gun slightly warm to the touch.",
+            "description": "A futuristic gun slightly warm to the touch.",
             "visualName": "sprites/equips/weapons/49.png"
         },
         {
@@ -29489,7 +29489,7 @@
             "subtype": "GUN",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A futuristic gun gently whirring from inside.",
+            "description": "A futuristic gun gently whirring from inside.",
             "visualName": "sprites/equips/weapons/48.png"
         },
         {
@@ -29635,7 +29635,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 11,
-            "vanillaDescription": "!orb_desc",
+            "description": "!orb_desc",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -29781,7 +29781,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 11,
-            "vanillaDescription": "An orb received from the Elder of a village by the sea.",
+            "description": "An orb received from the Elder of a village by the sea.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -29927,7 +29927,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 11,
-            "vanillaDescription": "An orb received from trolls deep within the forest.",
+            "description": "An orb received from trolls deep within the forest.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -30073,7 +30073,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 11,
-            "vanillaDescription": "An orb found within the caverns.",
+            "description": "An orb found within the caverns.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -30219,7 +30219,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 11,
-            "vanillaDescription": "An orb discovered high atop the mountains.",
+            "description": "An orb discovered high atop the mountains.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -30365,7 +30365,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "Adorable and wearable.",
+            "description": "Adorable and wearable.",
             "visualName": "sprites/equips/helmet/48.png"
         },
         {
@@ -30511,7 +30511,7 @@
             "subtype": "SWORD",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A blade fashioned from cheap metal.",
+            "description": "A blade fashioned from cheap metal.",
             "visualName": "sprites/equips/weapons/8.png"
         },
         {
@@ -30657,7 +30657,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": null,
+            "description": null,
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -30803,7 +30803,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": null,
+            "description": null,
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -30949,7 +30949,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": null,
+            "description": null,
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -31095,7 +31095,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": null,
+            "description": null,
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -31241,7 +31241,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": null,
+            "description": null,
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -31387,7 +31387,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": null,
+            "description": null,
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -31533,7 +31533,7 @@
             "subtype": "SWORD",
             "success": 0,
             "type": 1,
-            "vanillaDescription": null,
+            "description": null,
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -31679,7 +31679,7 @@
             "subtype": "STAFF",
             "success": 0,
             "type": 1,
-            "vanillaDescription": null,
+            "description": null,
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -31825,7 +31825,7 @@
             "subtype": "DAGGER",
             "success": 0,
             "type": 1,
-            "vanillaDescription": null,
+            "description": null,
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -31971,7 +31971,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 1,
-            "vanillaDescription": null,
+            "description": null,
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -32117,7 +32117,7 @@
             "subtype": "CLAW",
             "success": 0,
             "type": 1,
-            "vanillaDescription": null,
+            "description": null,
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -32263,7 +32263,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 4,
-            "vanillaDescription": "The final Helm.",
+            "description": "The final Helm.",
             "visualName": "sprites/equips/helmet/49.png"
         },
         {
@@ -32409,7 +32409,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 5,
-            "vanillaDescription": "The final Other.",
+            "description": "The final Other.",
             "visualName": "sprites/equips/other/6.png"
         },
         {
@@ -32555,7 +32555,7 @@
             "subtype": "SWORD",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "The final Sword.",
+            "description": "The final Sword.",
             "visualName": "sprites/equips/weapons/34.png"
         },
         {
@@ -32701,7 +32701,7 @@
             "subtype": "STAFF",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "The final Staff.",
+            "description": "The final Staff.",
             "visualName": "sprites/equips/weapons/35.png"
         },
         {
@@ -32847,7 +32847,7 @@
             "subtype": "DAGGER",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "The final Dagger.",
+            "description": "The final Dagger.",
             "visualName": "sprites/equips/weapons/37.png"
         },
         {
@@ -32993,7 +32993,7 @@
             "subtype": "NONE",
             "success": 0,
             "type": 3,
-            "vanillaDescription": "The final Armor.",
+            "description": "The final Armor.",
             "visualName": "sprites/equips/armor/23.png"
         },
         {
@@ -33139,7 +33139,7 @@
             "subtype": "DAGGER",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "The final Dagger.",
+            "description": "The final Dagger.",
             "visualName": "sprites/equips/weapons/36.png"
         },
         {
@@ -33285,7 +33285,7 @@
             "subtype": "NONE",
             "success": 30,
             "type": 6,
-            "vanillaDescription": "Compounds with Other. 30% success rate.",
+            "description": "Compounds with Other. 30% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -33431,7 +33431,7 @@
             "subtype": "NONE",
             "success": 30,
             "type": 6,
-            "vanillaDescription": "Compounds with Weapon. 30% success rate.",
+            "description": "Compounds with Weapon. 30% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -33577,7 +33577,7 @@
             "subtype": "NONE",
             "success": 30,
             "type": 6,
-            "vanillaDescription": "Compounds with Helm. 30% success rate.",
+            "description": "Compounds with Helm. 30% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -33723,7 +33723,7 @@
             "subtype": "NONE",
             "success": 30,
             "type": 6,
-            "vanillaDescription": "Compounds with Armor. 30% success rate.",
+            "description": "Compounds with Armor. 30% success rate.",
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -33869,7 +33869,7 @@
             "subtype": "GUN",
             "success": 0,
             "type": 1,
-            "vanillaDescription": null,
+            "description": null,
             "visualName": "sprites/equips/empty.png"
         },
         {
@@ -34015,7 +34015,7 @@
             "subtype": "GUN",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "!final_gun_desc",
+            "description": "!final_gun_desc",
             "visualName": "sprites/equips/weapons/38.png"
         },
         {
@@ -34161,7 +34161,7 @@
             "subtype": "WAND",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "Defeat enemies to break the curse.",
+            "description": "Defeat enemies to break the curse.",
             "visualName": "sprites/equips/weapons/24.png"
         },
         {
@@ -34307,7 +34307,7 @@
             "subtype": "WAND",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A powerful broomstick used by Trolls.",
+            "description": "A powerful broomstick used by Trolls.",
             "visualName": "sprites/equips/weapons/24.png"
         },
         {
@@ -34453,7 +34453,7 @@
             "subtype": "WAND",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "Adored by cavemen and necromancers.",
+            "description": "Adored by cavemen and necromancers.",
             "visualName": "sprites/equips/weapons/2.png"
         },
         {
@@ -34599,7 +34599,7 @@
             "subtype": "WAND",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "Kappas love this crude casting tool.",
+            "description": "Kappas love this crude casting tool.",
             "visualName": "sprites/equips/weapons/13.png"
         },
         {
@@ -34745,7 +34745,7 @@
             "subtype": "SWORD",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "60% chance to slow on hit.",
+            "description": "60% chance to slow on hit.",
             "visualName": "sprites/equips/weapons/33.png"
         },
         {
@@ -34891,7 +34891,7 @@
             "subtype": "DAGGER",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "An old kitchen knife.",
+            "description": "An old kitchen knife.",
             "visualName": "sprites/equips/weapons/21.png"
         },
         {
@@ -35037,7 +35037,7 @@
             "subtype": "DAGGER",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A quick dagger for dirty fighting.",
+            "description": "A quick dagger for dirty fighting.",
             "visualName": "sprites/equips/weapons/21.png"
         },
         {
@@ -35183,7 +35183,7 @@
             "subtype": "DAGGER",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "Defeat enemies to break the curse.",
+            "description": "Defeat enemies to break the curse.",
             "visualName": "sprites/equips/weapons/22.png"
         },
         {
@@ -35329,7 +35329,7 @@
             "subtype": "DAGGER",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A powerful dagger wielded by Trolls.",
+            "description": "A powerful dagger wielded by Trolls.",
             "visualName": "sprites/equips/weapons/22.png"
         },
         {
@@ -35475,7 +35475,7 @@
             "subtype": "DAGGER",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A short knife forged with ice.",
+            "description": "A short knife forged with ice.",
             "visualName": "sprites/equips/weapons/23.png"
         },
         {
@@ -35621,7 +35621,7 @@
             "subtype": "DAGGER",
             "success": 0,
             "type": 2,
-            "vanillaDescription": "A dagger flowing with magma.",
+            "description": "A dagger flowing with magma.",
             "visualName": "sprites/equips/weapons/31.png"
         }
     ]
