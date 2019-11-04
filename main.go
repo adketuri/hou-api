@@ -69,5 +69,12 @@ func main() {
 	router.HandleFunc("/", homeLink);
 	router.HandleFunc("/items", getAllItems).Methods("GET");
 	router.HandleFunc("/items/{id}", getOneItem).Methods("GET");
-	log.Fatal(http.ListenAndServe(":8080", router));
+
+	// Listen!
+	port := os.Getenv("PORT")
+	fmt.Println(port)
+	if port == "" {
+		port = "8080"
+	}
+	log.Fatal(http.ListenAndServe(fmt.Sprintf(":%s", port), router));
 }
