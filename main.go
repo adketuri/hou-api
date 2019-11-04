@@ -10,6 +10,7 @@ import (
 	"strconv"
 
 	"github.com/gorilla/mux"
+	"github.com/gorilla/handlers"
 )
 
 type Items struct {
@@ -100,5 +101,5 @@ func main() {
 		port = "8080"
 	}
 	fmt.Println("Listening on port", port)
-	log.Fatal(http.ListenAndServe(fmt.Sprintf(":%s", port), router));
+	log.Fatal(http.ListenAndServe(fmt.Sprintf(":%s", port), handlers.CORS(handlers.AllowedHeaders([]string{"X-Requested-With", "Content-Type", "Authorization"}), handlers.AllowedMethods([]string{"GET", "POST", "PUT", "HEAD", "OPTIONS"}), handlers.AllowedOrigins([]string{"*"}))(router)))
 }
