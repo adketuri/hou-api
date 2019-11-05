@@ -22,7 +22,7 @@ type Item struct {
 	Name				string	`json:"name"`
 	Description			string	`json:"description"`
 	Atk					int		`json:"atk"`
-	matk                int     `json:"matk"`
+	Matk                int     `json:"matk"`
 	Def                 int     `json:"def"`
 	Mdef                int     `json:"mdef"`
 	Speed               int     `json:"speed"`
