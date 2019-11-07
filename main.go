@@ -13,8 +13,23 @@ import (
 	"github.com/gorilla/handlers"
 )
 
-type Items struct {
-	Items []Item		`json:"items"`
+type Data struct {
+	Items []Items		`json:"items"`
+	Skills []Skills		`json:"skills"`
+}
+
+type Skill struct {
+	ID					int		`json:"id"`
+	Name				string	`json:"name"`
+	Description			string	`json:"description"`
+	Active	            bool	`json:"active"`
+	Instant	            bool	`json:"showHair"`
+	Tier				int		`json:"tier"`
+	Cost				int		`json:"cost"`
+	MaxRank				int		`json:"maxRank"`
+	VisualID			int		`json:"visualId"`
+	UsesSpirits			bool	`json:"id"`
+	Effect				[]float	`json:"effect"`
 }
 
 type Item struct {
@@ -51,7 +66,7 @@ type Item struct {
 	VisualName          string  `json:"visualName"`
 }
 
-var items Items;
+var data Data;
 
 func showItemById(w http.ResponseWriter, r *http.Request) {
 	id, err := strconv.Atoi(mux.Vars(r)["id"])
@@ -59,26 +74,43 @@ func showItemById(w http.ResponseWriter, r *http.Request) {
 		fmt.Println("error parsing")
 		return
 	} 
-	for i := 0; i < len(items.Items); i++ {
-		if items.Items[i].ID == id {
-			json.NewEncoder(w).Encode(items.Items[i]);
+	for i := 0; i < len(data.Items); i++ {
+		if data.Items[i].ID == id {
+			json.NewEncoder(w).Encode(data.Items[i]);
 		}
 	}
 }
 
 func listItems(w http.ResponseWriter, r *http.Request) {
-	json.NewEncoder(w).Encode(items);
+	json.NewEncoder(w).Encode(data.Items);
+}
+
+func showSkillById(w http.ResponseWriter, r *http.Request) {
+	id, err := strconv.Atoi(mux.Vars(r)["id"])
+	if err != nil {
+		fmt.Println("error parsing")
+		return
+	} 
+	for i := 0; i < len(data.Skills); i++ {
+		if data.Skills[i].ID == id {
+			json.NewEncoder(w).Encode(data.Skills[i]);
+		}
+	}
+}
+
+func listSkills(w http.ResponseWriter, r *http.Request) {
+	json.NewEncoder(w).Encode(data.Skills);
 }
 
 func main() {
 	fmt.Println("Initializing...")
 
 	// Attempt to open json file
-	jsonFile, err := os.Open("items.json")
+	jsonFile, err := os.Open("data.json")
 	if err != nil {
 		fmt.Println(err)
 	}
-	fmt.Println("Successfully Opened items.json")
+	fmt.Println("Successfully Opened data.json")
 	// defer the closing of our jsonFile so that we can parse it later on
 	defer jsonFile.Close()
 
@@ -87,12 +119,14 @@ func main() {
 
 	// we unmarshal our byteArray which contains our
 	// jsonFile's content into 'items' which we defined above
-	json.Unmarshal(byteValue, &items)
+	json.Unmarshal(byteValue, &data)
 
 	// Create our router
 	router := mux.NewRouter().StrictSlash(true)
 	router.HandleFunc("/v1/items", listItems).Methods("GET")
 	router.HandleFunc("/v1/items/{id}", showItemById).Methods("GET")
+	router.HandleFunc("/v1/skills", listSkills).Methods("GET")
+	router.HandleFunc("/v1/skills/{id}", showSkillById).Methods("GET")
 	router.PathPrefix("/").Handler(http.FileServer(http.Dir(".")))
 
 	// Listen on whatever port heroku wants. 8080 by default.
