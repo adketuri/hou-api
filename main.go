@@ -14,22 +14,22 @@ import (
 )
 
 type Data struct {
-	Items []Items		`json:"items"`
-	Skills []Skills		`json:"skills"`
+	Items []Item		`json:"items"`
+	Skills []Skill		`json:"skills"`
 }
 
 type Skill struct {
-	ID					int		`json:"id"`
-	Name				string	`json:"name"`
-	Description			string	`json:"description"`
-	Active	            bool	`json:"active"`
-	Instant	            bool	`json:"showHair"`
-	Tier				int		`json:"tier"`
-	Cost				int		`json:"cost"`
-	MaxRank				int		`json:"maxRank"`
-	VisualID			int		`json:"visualId"`
-	UsesSpirits			bool	`json:"id"`
-	Effect				[]float	`json:"effect"`
+	ID					int			`json:"id"`
+	Name				string		`json:"name"`
+	Description			string		`json:"description"`
+	Active	            bool		`json:"active"`
+	Instant	            bool		`json:"showHair"`
+	Tier				int			`json:"tier"`
+	Cost				int			`json:"cost"`
+	MaxRank				int			`json:"maxRank"`
+	VisualID			int			`json:"visualId"`
+	UsesSpirits			bool		`json:"id"`
+	Effect				[]float32	`json:"effect"`
 }
 
 type Item struct {
